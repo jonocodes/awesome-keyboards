@@ -5,7 +5,8 @@ by Jono
 
 made using Marp
 
-see rendered slides here (TBD)
+see rendered slides here:
+http://jonocodes.github.io/awesome-keyboards
 
 Note: Most of the text is in the speaker notes (press 'p') so the slide visuals dont stand on thier own. Press 'p' or visit http://localhost:8080/marp-slides.md?view=presenter
 
@@ -29,19 +30,18 @@ Live watch with html iframe support:
 
 > npx @marp-team/marp-cli@latest --html -w -s .
  
-Visit http://localhost:8080/
+Visit http://localhost:8080/marp-slides.md
 
 
 ## To use a custom theme
 
 > npx @marp-team/marp-cli@latest --theme ./dracula.css --html -w -s .
 
-Visit http://localhost:8080/
+Visit http://localhost:8080/marp-slides.md
 
 
 ## Building
 
-to compile for serving/hosting
+to compile for hosting (on github pages)
 
-> npx @marp-team/marp-cli@latest slide-deck.md -o output.html
-
+> npx @marp-team/marp-cli@latest marp-slides.md -o index.html

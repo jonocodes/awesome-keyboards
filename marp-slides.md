@@ -26,7 +26,7 @@ style: |
 
 ## by Jono
 
-(to see text in speaker notes press "p")
+(to see text in speaker notes press <a href="/?view=presenter" target="_blank">"p"</a>)
 
 ---
 
