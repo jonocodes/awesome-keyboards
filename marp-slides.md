@@ -26,7 +26,7 @@ style: |
 
 ## by Jono
 
-(to see text in speaker notes press <a href="/?view=presenter" target="_blank">"p"</a>)
+<small>(see text content in speaker notes)</small>
 
 ---
 
@@ -249,7 +249,6 @@ Gateron optical switch profile example
 
 - volume
 - depth
-- smoothness
 - ping
 - pop
 - pitch
@@ -257,7 +256,7 @@ Gateron optical switch profile example
 - grind
 - click
 - clack
-- thock
+- thock <--
 
 ---
 
@@ -483,6 +482,8 @@ Kind of like the Mac magic bar
 
 ---
 
+<!-- _class: lead -->
+
 # <!-- fit --> Ergonomics
 
 <!--
@@ -564,7 +565,7 @@ https://hackaday.com/2021/08/04/inputs-of-interest-safetype-vertical-keyboard-wi
 
 ## Thumb clusters
 
-![bg right:70%](media/moonlander-thumb.jpg)
+![bg right:60%](media/moonlander-thumb.jpg)
 
 <!--
 Moonlander
@@ -596,8 +597,6 @@ Notice how left and right stagger are not equal. This makes travel inconsistant.
 -->
 
 ---
-
-<!-- _class: lead -->
 
 # Ergonomic Layouts
 
@@ -658,8 +657,6 @@ Even in languages with different characters they build off qwerty.
 
 ---
 
-<!-- _class: lead -->
-
 # Alternative layouts
 
 ---
@@ -709,8 +706,6 @@ Even with tarmak, it typically takes months to become fully proficient.
 
 ---
 
-<!-- _class: lead -->
-
 ## Personalized layouts
 
 ---
@@ -733,8 +728,6 @@ swap caps lock for control or delete
 - Low effort (1 week), medium return: Thumb clusters!
 
 ---
-
-<!-- _class: lead -->
 
 ## Ergonomics
 
@@ -861,7 +854,7 @@ https://kbd.news/meetups
 
 ---
 
-![bg  right:40%](./media/cat2.webp)
+![bg right:40%](./media/cat2.webp)
 
 <!--
 
