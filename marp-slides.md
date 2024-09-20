@@ -318,6 +318,7 @@ src="https://cdn.shopify.com/videos/c/o/v/3a5752f4c90548008e412a1febab728d.mp4" 
 
 <!--
 Uni v4 stenograph
+This is what modern chording looks like
 -->
 
 ---
@@ -327,6 +328,12 @@ Uni v4 stenograph
 ---
 
 ![bg](media/charachorder-3d.webp)
+
+<!-- 
+This is the Charachorder One
+with 3-D Tactile Switches
+-->
+
 
 ---
 
@@ -365,6 +372,10 @@ Mention leaderboard controversary
 
 ![bg fit](./media/rollup.webp)
 
+<!-- 
+Rollup keyboard
+ -->
+
 ---
 
 ![bg fit](./media/laserkeys.webp)
@@ -381,11 +392,23 @@ Laser Projection Keyboard
 
 ---
 
-![](./media/tapstrap.jpg)
+![bg fit](./media/tapstrap.jpg)
+
+<!-- 
+Tap strap 2
+
+Single hand typing
+Multiple mouse modes
+Haptic feed back
+-->
 
 ---
 
 ![bg fit](./media/pants.jpg)
+
+<!-- 
+"Beauty and the Geek" jeans is a wearable concept. It even has speakers behind the knees.
+-->
 
 ---
 
@@ -395,6 +418,10 @@ Laser Projection Keyboard
 
 ![bg fit](media/sizes-wide.jpg)
 
+<!--
+ranges from 104 keys to 47
+-->
+
 ---
 
 <!-- ![](./media/40-Percent-Keyboard-by-plainoldcode-3-1216x680.webp) -->
@@ -403,7 +430,6 @@ Laser Projection Keyboard
 
 <!--
 40% keyboard, 47 keys
-Full size is 104 keys
 -->
 
 ---
@@ -458,6 +484,10 @@ Honeywell 142 keys
 
 ![bg fit](./media/oryx-layer0.png)
 
+<!-- 
+These are screenshots of the config for my Ergodox EZ
+ -->
+
 ---
 
 ![bg fit](./media/oryx-layer1.png)
@@ -505,7 +535,7 @@ Kind of like the Mac magic bar
 
 ---
 
-![hammock](media/back-yard-hammock.jpg)
+![bg fit](media/back-yard-hammock.jpg)
 
 ---
 
@@ -577,7 +607,7 @@ Moonlander
 
 <!--
 Dygma - maximixed thumb clusters
-16 keys
+16 keys!
 -->
 
 ---
@@ -666,11 +696,12 @@ Even in languages with different characters they build off qwerty.
 <!--
 This is the first well know alternative layout. Created 1936.
 
-Notice vowels on the left hand and special characters rearanged.
-
 August Dvorak studied letter frequencies and the physiology of the hand.
 
 Common letters should be in the home row.
+
+Notice vowels on the left hand and special characters rearanged.
+
 
 -->
 
@@ -688,13 +719,15 @@ Mention words/languages vs programming
 
 ![bg fit](./media/colemak-layout-1.jpg)
 
+<!-- 
+Many QWERTY keys are preserved as well as control commands.
+-->
+
 ---
 
 ![bg fit](./media/Tarmak_KeyChanges.png)
 
 <!--
-Many QWERTY keys are preserved as well as control commands.
-
 Even with tarmak, it typically takes months to become fully proficient.
 -->
 
@@ -810,8 +843,6 @@ foot pedals
 
 ---
 
-<!-- _class: lead -->
-
 # Mobile specific
 
 ---
@@ -865,7 +896,7 @@ https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits/
 
 <div class="scroll">
 
-## Mechanical Keyboards
+### Mechanical Keyboards
 
 /r/mechmarket
 /r/switchmodders
@@ -874,34 +905,34 @@ https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits/
 /r/MechanicalKeyboards
 /r/vintagekeyboards
 
-## Layouts and Tech
+### Layouts and Tech
 
 /r/Dvorak
 /r/colemak
 /r/KeyboardLayouts
 /r/keyboardshortcuts
 
-## DIY
+### DIY
 
 /r/PeripheralDesign
 /r/CustomBoards
 
-## Ergo
+### Ergo
 
 /r/olkb
 /r/ergodox
 /r/ErgoMechKeyboards
 /r/ergonomics
 
-## Image Galleries
+### Image Galleries
 
 /r/ArtisanMacro
-/r/CatsOnKeyboards
+/r/CatsOnKeyboards ->
 /r/CustomKeyboards
 /r/cyberDeck
-/r/mechanicalheadpens/
+/r/mechanicalheadpens
 
-## Adjacent Subreddits
+### Adjacent Subreddits
 
 /r/hardwareswap
 /r/keyboard
