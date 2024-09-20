@@ -925,7 +925,7 @@ https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits/
 
 # Key takeaways
 
-- Keyboard customization is a rabbit hole.
+- Keyboard customization is a (fun) rabbit hole.
 
 - QWERTY is an outdated convention.
 
