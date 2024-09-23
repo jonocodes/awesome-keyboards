@@ -329,11 +329,10 @@ This is what modern chording looks like
 
 ![bg](media/charachorder-3d.webp)
 
-<!-- 
+<!--
 This is the Charachorder One
 with 3-D Tactile Switches
 -->
-
 
 ---
 
@@ -372,7 +371,7 @@ Mention leaderboard controversary
 
 ![bg fit](./media/rollup.webp)
 
-<!-- 
+<!--
 Rollup keyboard
  -->
 
@@ -380,7 +379,7 @@ Rollup keyboard
 
 ![bg fit](./media/laserkeys.webp)
 
-<!-- 
+<!--
 Laser Projection Keyboard
  -->
 
@@ -394,7 +393,7 @@ Laser Projection Keyboard
 
 ![bg fit](./media/tapstrap.jpg)
 
-<!-- 
+<!--
 Tap strap 2
 
 Single hand typing
@@ -406,7 +405,7 @@ Haptic feed back
 
 ![bg fit](./media/pants.jpg)
 
-<!-- 
+<!--
 "Beauty and the Geek" jeans is a wearable concept. It even has speakers behind the knees.
 -->
 
@@ -466,11 +465,13 @@ https://github.com/veggiedefender/open-and-shut
 
 ---
 
-# Key Maximization
+# <!-- fit --> Key Maximization
+
+![bg right](./media/concorde1.jpg)
 
 ---
 
-![bg](media/honeywellHe142.jpeg)
+![bg fit](media/honeywellHe142.jpeg)
 
 <!--
 Honeywell 142 keys
@@ -484,7 +485,7 @@ Honeywell 142 keys
 
 ![bg fit](./media/oryx-layer0.png)
 
-<!-- 
+<!--
 These are screenshots of the config for my Ergodox EZ
  -->
 
@@ -539,7 +540,7 @@ Kind of like the Mac magic bar
 
 ---
 
-![](media/supine-computing-reflective-glasses.jpg)
+![bg fit](media/supine-computing-reflective-glasses.jpg)
 
 ---
 
@@ -719,7 +720,7 @@ Mention words/languages vs programming
 
 ![bg fit](./media/colemak-layout-1.jpg)
 
-<!-- 
+<!--
 Many QWERTY keys are preserved as well as control commands.
 -->
 
