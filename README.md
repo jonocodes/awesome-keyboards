@@ -28,9 +28,11 @@ Note: Embeded videos and iframes dont appear to show in the vscode preview, or l
 
 Live watch with html iframe support:
 
-> npx @marp-team/marp-cli@latest --html -w -s .
+> just
  
 Visit http://localhost:8080/marp-slides.md
+
+but not http://localhost:8080/ since it will render index.html
 
 
 ## To use a custom theme
@@ -44,4 +46,4 @@ Visit http://localhost:8080/marp-slides.md
 
 to compile for hosting (on github pages)
 
-> npx @marp-team/marp-cli@latest --html marp-slides.md -o index.html
+> just build

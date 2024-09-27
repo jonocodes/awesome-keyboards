@@ -74,6 +74,8 @@ Gaming
 
 ---
 
+<!-- _class: lead -->
+
 ![bg fit](media/gaming-rgb.jpg)
 
 ---
@@ -231,6 +233,8 @@ Now there a hundreds of variations
 
 ---
 
+<!-- _class: lead -->
+
 ![bg fit](./media/gateron-profile.jpg)
 
 <!--
@@ -369,6 +373,8 @@ Mention leaderboard controversary
 
 ---
 
+<!-- _class: lead -->
+
 ![bg fit](./media/rollup.webp)
 
 <!--
@@ -503,11 +509,13 @@ These are screenshots of the config for my Ergodox EZ
 
 ---
 
-![bg fit](./media/nameio.jpg)
+<!-- _class: lead -->
+
+![bg fit](./media/optimus_popularis_all_in_one_computer_keyboard_5.jpg)
 
 <!--
-Nameio
-80 key programmable display
+Optimus Popularis Keyboard
+Programmable LED screen keys
 Kind of like the Mac magic bar
 -->
 
@@ -516,6 +524,8 @@ Kind of like the Mac magic bar
 <!-- _class: lead -->
 
 # <!-- fit --> Ergonomics
+
+![bg fit right:50%](media/inbox.jpg)
 
 <!--
 * For now we are stuck with using keyboards.
@@ -528,11 +538,13 @@ Kind of like the Mac magic bar
 
 ---
 
+<!-- _class: lead -->
+
 ![bg fit](media/ergoquest-zerog.jpg)
 
 ---
 
-![](media/keyboard_uchair.webp)
+![bg fit](media/keyboard_uchair.webp)
 
 ---
 
@@ -566,7 +578,11 @@ They inspired the invention of Cherry Browns.
 
 ## <!-- fit --> Split
 
-![bg right:70%](media/split-keychronq11camerashotphoto3-1677465364741.jpg)
+![bg right:70%](media/left-right.jpg)
+
+---
+
+![bg fit](media/split.webp)
 
 ---
 
@@ -576,9 +592,13 @@ They inspired the invention of Cherry Browns.
 
 ---
 
+![bg fit](media/kinesis-hands.jpg)
+
+---
+
 ## <!-- fit --> Tenting
 
-![bg fit right:70%](./media/tenting.webp)
+![bg fit right:70%](./media/tented-dygma.gif)
 
 ---
 
@@ -596,7 +616,7 @@ https://hackaday.com/2021/08/04/inputs-of-interest-safetype-vertical-keyboard-wi
 
 ## Thumb clusters
 
-![bg right:60%](media/moonlander-thumb.jpg)
+![bg right:60%](media/thumb_1200_1200x-anim.webp)
 
 <!--
 Moonlander
@@ -738,6 +758,7 @@ Even with tarmak, it typically takes months to become fully proficient.
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eNeYmr48JUM?si=0gQho2SfR7FodLL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<!-- 
 ---
 
 ## Personalized layouts
@@ -746,10 +767,10 @@ Even with tarmak, it typically takes months to become fully proficient.
 
 ![bg](./media/magnitic-durmang.png)
 
-<!--
+notes:
 switching individual keys
-swap caps lock for control or delete
--->
+swap caps lock for control or delete -->
+
 
 ---
 
@@ -757,9 +778,10 @@ swap caps lock for control or delete
 
 ### Takeaways
 
-- High effort (months), high return: Alternate layouts
 
-- Low effort (1 week), medium return: Thumb clusters!
+* High effort (months), high return: Alternate layouts
+
+* Low effort (1 week), medium return: Thumb clusters!
 
 ---
 
@@ -795,7 +817,7 @@ I use QWERTY on my laptop and phone every day
 
 <!--
 It depends on what you are doing. english? spanish? programming?
- -->
+-->
 
 ---
 
@@ -813,28 +835,30 @@ Your pinkies will thank you.
 <!--
 More people spend more and more time at a computer every day.
 
+The average office worker presses 2-10k keys per day. Thats millions a year.
+
 You probably spend 5+ hours a day at a keyboard. Why use a piece of junk?
 
 Unless you have a deprevation mind set. Then go for it.
 -->
 
 ---
-
+<!-- 
 # Beyond keyboards
 
 ---
 
 ![bg fit](./media/vertical-mouse.jpeg)
 
-<!--
+
 vertical mouse
--->
+
 
 ---
 
-<!--
+
 foot pedals
--->
+
 
 ![bg fit](media/foot-pedal.jpg)
 
@@ -842,7 +866,7 @@ foot pedals
 
 ![bg](./media/nohandsmouse.png)
 
----
+--- -->
 
 # Mobile specific
 
@@ -876,7 +900,7 @@ https://kbd.news/meetups
 
 ---
 
-[Meetups](https://kbd.news/meetups)
+<!-- [Meetups](https://kbd.news/meetups)
 
 <div class="scroll">
 
@@ -884,7 +908,7 @@ https://kbd.news/meetups
 
 </div>
 
----
+--- -->
 
 ![bg right:40%](./media/cat2.webp)
 
@@ -950,11 +974,12 @@ https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits/
 
 # Key takeaways
 
-- Keyboard customization is a (fun) rabbit hole.
+* Thumb clusters are awesome.
 
-- QWERTY is an outdated convention.
+* QWERTY is an outdated convention.
 
-- Thumb clusters are awesome.
+* Keyboard customization is a (fun) rabbit hole.
+
 
 <!--
 If there are any things I hope you got out of this, it would be these.
