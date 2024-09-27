@@ -205,8 +205,8 @@ used by gamers
 
 ### <!-- fit --> Mechanical
 
-- durabile
-- repairabile
+- durable
+- repairable
 - customizable (sound and feel)
 
 ![bg fit right:66%](media/mechanical-debatable-legendary-absolutely-v0-rh3uo2maf8md1.webp)
@@ -239,7 +239,7 @@ Now there a hundreds of variations
 
 <!--
 Gateron optical switch profile example
- -->
+-->
 
 ---
 
@@ -357,7 +357,7 @@ https://www.tiktok.com/@rileyfordkeen/video/7176769863149587758
 <video src="./media/charachorder500wpm.mp4" controls height="50%"></video>
 
 Note:
-Mention leaderboard controversary
+Mention leaderboard controversy
 
 -->
 
@@ -379,7 +379,7 @@ Mention leaderboard controversary
 
 <!--
 Rollup keyboard
- -->
+-->
 
 ---
 
@@ -387,13 +387,13 @@ Rollup keyboard
 
 <!--
 Laser Projection Keyboard
- -->
+-->
 
 ---
 
 # Functionality
 
-## Wearabile
+## Wearable
 
 ---
 
@@ -530,6 +530,7 @@ Kind of like the Mac magic bar
 <!--
 * For now we are stuck with using keyboards.
 * Typing at a desk for hours a day can only be so ergonomic.
+* How we we minimize repetitive stress injuries?
 -->
 
 ---
@@ -627,7 +628,7 @@ Moonlander
 ![](media/thumbcluster-dygma.webp)
 
 <!--
-Dygma - maximixed thumb clusters
+Dygma - maximized thumb clusters
 16 keys!
 -->
 
@@ -642,9 +643,9 @@ Dygma - maximixed thumb clusters
 ![bg](./media/Remington_2_typewriter_keyboard-lines.jpg)
 
 <!--
-Staggering was necessarry for typewriters.
+Staggering was necessary for typewriters.
 
-Notice how left and right stagger are not equal. This makes travel inconsistant.
+Notice how left and right stagger are not equal. This makes travel inconsistent.
 -->
 
 ---
@@ -665,7 +666,7 @@ How did we get here?
 
 - In the 1860's C. L. Sholes made the first commercial typewriter in a Milwaukee, using U.S. English.
 
-- Early prototypes used alphabetically ordered keys. But they were difficult to type with (since our fingers dont read left to right).
+- Early prototypes used alphabetically ordered keys. But they were difficult to type with (since our fingers don't read left to right).
 
 - **Fun fact**: Some had only capitol letters and numbers 2-9.
   It was suggested to use letters o and l for 0 and 1.
@@ -721,8 +722,7 @@ August Dvorak studied letter frequencies and the physiology of the hand.
 
 Common letters should be in the home row.
 
-Notice vowels on the left hand and special characters rearanged.
-
+Notice vowels on the left hand and special characters rearranged.
 
 -->
 
@@ -797,6 +797,10 @@ These are questions I regularly get when people see my keyboard.
 
 ### I already type 100 WPM. Do these optimizations really make you faster?
 
+<br />
+
+* ## __Its all about comfort__
+
 <!--
 Its all about comfort
 Speed could also happen...
@@ -805,6 +809,10 @@ Speed could also happen...
 ---
 
 ### Can you still type on other peoples keyboards?
+
+<br />
+
+* ## __Yes__
 
 <!--
 Sure.
@@ -815,13 +823,21 @@ I use QWERTY on my laptop and phone every day
 
 ### What's the best layout?
 
+<br />
+
+* ## __It depends__
+
 <!--
 It depends on what you are doing. english? spanish? programming?
 -->
 
 ---
 
-### I dont have time to learn another layout. Is there something quick and easy that I can do instead?
+### I don't have time to learn another layout. Is there something quick and easy that I can do instead?
+
+<br />
+
+* ## __Thumb clusters!__
 
 <!--
 Thumb clusters! Biggest bang for your buck.
@@ -832,6 +848,8 @@ Your pinkies will thank you.
 
 ### Seems like a waste of money
 
+* ### __You press thousands of keys a day__
+
 <!--
 More people spend more and more time at a computer every day.
 
@@ -839,7 +857,7 @@ The average office worker presses 2-10k keys per day. Thats millions a year.
 
 You probably spend 5+ hours a day at a keyboard. Why use a piece of junk?
 
-Unless you have a deprevation mind set. Then go for it.
+Unless you have a deprivation mind set. Then go for it.
 -->
 
 ---
