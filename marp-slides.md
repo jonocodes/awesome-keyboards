@@ -861,30 +861,6 @@ Unless you have a deprivation mind set. Then go for it.
 -->
 
 ---
-<!-- 
-# Beyond keyboards
-
----
-
-![bg fit](./media/vertical-mouse.jpeg)
-
-
-vertical mouse
-
-
----
-
-
-foot pedals
-
-
-![bg fit](media/foot-pedal.jpg)
-
----
-
-![bg](./media/nohandsmouse.png)
-
---- -->
 
 # Mobile specific
 
@@ -1002,3 +978,14 @@ https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits/
 <!--
 If there are any things I hope you got out of this, it would be these.
 -->
+
+---
+
+# Join me next time for ...
+
+
+---
+
+# The mouse!
+
+![bg fit right:65%](./media/vertical-mouse.jpeg)
