@@ -26,6 +26,10 @@ style: |
 
 ## by Jono
 
+<br />
+
+https://jonocodes.github.io/awesome-keyboards
+
 <small>(see text content in speaker notes)</small>
 
 ---
