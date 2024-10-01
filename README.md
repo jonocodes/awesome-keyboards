@@ -1,17 +1,19 @@
-
 # A talk about computer keyboards
 
 by Jono
 
-made using Marp
+see the presentation here:
+https://youtu.be/W07djmOesVQ?si=XWcck93SBv1L6_-C
 
 see rendered slides here:
 https://jonocodes.github.io/awesome-keyboards
 
-Note: Most of the text is in the speaker notes (press 'p') so the slide visuals dont stand on thier own. Press 'p' or visit http://localhost:8080/marp-slides.md?view=presenter
+The slides do not stand on their own without the text notes. The text is in the speaker notes (press 'p' or visit http://localhost:8080/marp-slides.md?view=presenter).
 
 
 ## Development Setup
+
+Slides made using Marp/Markdown.
 
 ### If using Nix
 
