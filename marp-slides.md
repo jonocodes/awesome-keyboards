@@ -30,7 +30,7 @@ style: |
 
 https://jonocodes.github.io/awesome-keyboards
 
-<small>(see text content in speaker notes)</small>
+<small>(text content in speaker notes)</small>
 
 ---
 
@@ -46,7 +46,7 @@ I promise you will learn something, and its mostly pictures anyway.
 
 ---
 
-![bg fit right:70%](./media/lego.jpg)
+![bg fit right:65%](./media/lego.jpg)
 
 # <!-- fit --> Outline
 
@@ -762,30 +762,9 @@ Even with tarmak, it typically takes months to become fully proficient.
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/eNeYmr48JUM?si=0gQho2SfR7FodLL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- 
 ---
 
-## Personalized layouts
-
----
-
-![bg](./media/magnitic-durmang.png)
-
-notes:
-switching individual keys
-swap caps lock for control or delete -->
-
-
----
-
-## Ergonomics
-
-### Takeaways
-
-
-* High effort (months), high return: Alternate layouts
-
-* Low effort (1 week), medium return: Thumb clusters!
+![bg fit](./media/ergo-chart.png)
 
 ---
 
@@ -852,7 +831,7 @@ Your pinkies will thank you.
 
 ### Seems like a waste of money
 
-* ### __You press thousands of keys a day__
+* ### **You press thousands of keys a day**
 
 <!--
 More people spend more and more time at a computer every day.
@@ -865,20 +844,6 @@ Unless you have a deprivation mind set. Then go for it.
 -->
 
 ---
-
-# Mobile specific
-
----
-
-![bg fit](./media/MessagEase-android.webp)
-
----
-
-![bg fit](./media/thumb-type.jpg)
-
----
-
-<!-- _class: lead -->
 
 # Community
 
@@ -972,12 +937,11 @@ https://www.reddit.com/r/MechanicalKeyboards/wiki/keyboard_subreddits/
 
 # Key takeaways
 
-* Thumb clusters are awesome.
+- QWERTY is an outdated convention
 
-* QWERTY is an outdated convention.
+- Thumb clusters are awesome
 
-* Keyboard customization is a (fun) rabbit hole.
-
+- Keyboard customization is a (fun) rabbit hole
 
 <!--
 If there are any things I hope you got out of this, it would be these.
@@ -987,9 +951,8 @@ If there are any things I hope you got out of this, it would be these.
 
 # Join me next time for ...
 
-
 ---
 
-# The mouse!
+# The mouse and other controllers!
 
-![bg fit right:65%](./media/vertical-mouse.jpeg)
+![bg fit right:50%](./media/mouse-etc.png)
